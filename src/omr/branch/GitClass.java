@@ -14,7 +14,9 @@ public class GitClass {
 		g.haran();
 	}
 
-	
+	private void priya() {
+	System.out.println("priya");
+	}
 			
 
 }
